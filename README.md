@@ -1,0 +1,2 @@
+# ZLauncher
+Лаунчер для Zandronum
