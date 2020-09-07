@@ -1,2 +1,2 @@
 # ZLauncher
-Лаунчер для Zandronum
+Лаунчер для Zandronum (современный клон классического Doom)
